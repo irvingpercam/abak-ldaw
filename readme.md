@@ -18,3 +18,5 @@ Durante el desarollo del proyecto, estaremos manejando la herramienta de Git com
 Nuestras ramas principales serán:
 - master
 - develop
+
+Véase el sitio web para más información acerca del modelo de ramas de Driessen: https://nvie.com/posts/a-successful-git-branching-model/
